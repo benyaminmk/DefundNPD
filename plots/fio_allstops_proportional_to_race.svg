@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="441.36125pt" version="1.1" viewBox="0 0 351.3625 441.36125" width="351.3625pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;white-space:pre;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 441.36125 
+L 351.3625 441.36125 
+L 351.3625 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 12.9625 245.83625 
+L 347.7625 245.83625 
+L 347.7625 28.39625 
+L 12.9625 28.39625 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="patch_3">
+    <path clip-path="url(#p0745aefe06)" d="M 26.9125 245.83625 
+L 54.8125 245.83625 
+L 54.8125 238.233453 
+L 26.9125 238.233453 
+z
+" style="fill:#4477aa;"/>
+   </g>
+   <g id="patch_4">
+    <path clip-path="url(#p0745aefe06)" d="M 82.7125 245.83625 
+L 110.6125 245.83625 
+L 110.6125 38.750536 
+L 82.7125 38.750536 
+z
+" style="fill:#4477aa;"/>
+   </g>
+   <g id="patch_5">
+    <path clip-path="url(#p0745aefe06)" d="M 138.5125 245.83625 
+L 166.4125 245.83625 
+L 166.4125 205.494877 
+L 138.5125 205.494877 
+z
+" style="fill:#4477aa;"/>
+   </g>
+   <g id="patch_6">
+    <path clip-path="url(#p0745aefe06)" d="M 194.3125 245.83625 
+L 222.2125 245.83625 
+L 222.2125 81.108977 
+L 194.3125 81.108977 
+z
+" style="fill:#4477aa;"/>
+   </g>
+   <g id="patch_7">
+    <path clip-path="url(#p0745aefe06)" d="M 250.1125 245.83625 
+L 278.0125 245.83625 
+L 278.0125 198.012203 
+L 250.1125 198.012203 
+z
+" style="fill:#4477aa;"/>
+   </g>
+   <g id="patch_8">
+    <path clip-path="url(#p0745aefe06)" d="M 305.9125 245.83625 
+L 333.8125 245.83625 
+L 333.8125 217.526955 
+L 305.9125 217.526955 
+z
+" style="fill:#4477aa;"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path d="M 0 0 
+L 0 -3.5 
+" id="m273987112a" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="40.8625" xlink:href="#m273987112a" y="245.83625"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(43.621875 276.13)rotate(-90)">Asian</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="96.6625" xlink:href="#m273987112a" y="245.83625"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(99.421875 378.453437)rotate(-90)">Black or African American</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="152.4625" xlink:href="#m273987112a" y="245.83625"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(155.221875 406.126875)rotate(-90)">Hispanic or Latino (of any race)</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="208.2625" xlink:href="#m273987112a" y="245.83625"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(211.021875 424.083125)rotate(-90)">American Indian and Alaska Native</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="264.0625" xlink:href="#m273987112a" y="245.83625"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(266.821875 294.27375)rotate(-90)">unknown</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="319.8625" xlink:href="#m273987112a" y="245.83625"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(322.621875 277.912812)rotate(-90)">White</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 180.3625, 435.681562)" x="180.3625" y="435.681562">demographic</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <defs>
+       <path d="M 0 0 
+L 3.5 0 
+" id="m0160b9e9ea" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="12.9625" xlink:href="#m0160b9e9ea" y="245.83625"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 9.9625, 249.635469)" x="9.9625" y="249.635469">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="12.9625" xlink:href="#m0160b9e9ea" y="211.243523"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 9.9625, 215.042741)" x="9.9625" y="215.042741">1</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="12.9625" xlink:href="#m0160b9e9ea" y="176.650795"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 9.9625, 180.450014)" x="9.9625" y="180.450014">2</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="12.9625" xlink:href="#m0160b9e9ea" y="142.058068"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 9.9625, 145.857287)" x="9.9625" y="145.857287">3</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="12.9625" xlink:href="#m0160b9e9ea" y="107.465341"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 9.9625, 111.26456)" x="9.9625" y="111.26456">4</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="12.9625" xlink:href="#m0160b9e9ea" y="72.872614"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 9.9625, 76.671832)" x="9.9625" y="76.671832">5</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_13">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="12.9625" xlink:href="#m0160b9e9ea" y="38.279886"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 9.9625, 42.079105)" x="9.9625" y="42.079105">6</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_9">
+    <path d="M 12.9625 245.83625 
+L 12.9625 28.39625 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.5;"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 347.7625 245.83625 
+L 347.7625 28.39625 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.5;"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 12.9625 245.83625 
+L 347.7625 245.83625 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.5;"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 12.9625 28.39625 
+L 347.7625 28.39625 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.5;"/>
+   </g>
+   <g id="text_15">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(73.091406 11.198437)">Liklihood of having police field interactions</text>
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(107.107031 22.39625)">proportional to race/ethnicity</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0745aefe06">
+   <rect height="217.44" width="334.8" x="12.9625" y="28.39625"/>
+  </clipPath>
+ </defs>
+</svg>
